@@ -25,13 +25,19 @@
 composer require binarytorch/larecipe-feedback
 ```
 
-2. Use the VueJs component provided by the package at the end of each `.md` file you want to receive feedback about.
+2. Run the migration
+
+```bash
+php artisan migrate
+```
+
+3. Use the VueJs component provided by the package at the end of each `.md` file you want to receive feedback about.
 
 ```html
 <larecipe-feedback></larecipe-feedback>
 ```
 
-3. You can customize the component via the available props:
+4. You can customize the component via the available props:
 
 > The `document` prop is just an identified to let you see the feedback results about specific page, if the value is not provided the package will take the url location's path.
 
