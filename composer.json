@@ -1,6 +1,6 @@
 {
     "name": "binarytorch/larecipe-feedback",
-    "description": "A LaRecipe asset.",
+    "description": "Get feedback from your users about your documentations.",
     "keywords": [
         "laravel",
         "larecipe"
