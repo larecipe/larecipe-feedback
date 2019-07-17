@@ -15,7 +15,7 @@
 
 **LaRecipe** is simply a code-driven package provides an easy way to create beautiful documentation for your product or application inside your Laravel app.
 
-![LaRecipe Screenshot](https://larecipe.binarytorch.com.my/images/packages/dark-theme.png)
+![LaRecipe Screenshot](https://larecipe.binarytorch.com.my/images/packages/feedback.png)
 
 ## Getting Started
 
@@ -36,6 +36,10 @@ php artisan migrate
 ```html
 <larecipe-feedback></larecipe-feedback>
 ```
+
+<h6 align="center">
+    <img src="https://larecipe.binarytorch.com.my/images/packages/feedback.gif"/>
+</h6>
 
 4. You can customize the component via the available props:
 
