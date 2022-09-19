@@ -1,5 +1,5 @@
 <h6 align="center">
-    <img src="https://larecipe.binarytorch.com.my/images/logo.svg"/>
+    <img src="https://larecipe.saleem.dev/images/logo.svg"/>
 </h6>
 
 <h2 align="center">
@@ -15,7 +15,7 @@
 
 **LaRecipe** is simply a code-driven package provides an easy way to create beautiful documentation for your product or application inside your Laravel app.
 
-![LaRecipe Screenshot](https://larecipe.binarytorch.com.my/images/packages/feedback.png)
+![LaRecipe Screenshot](https://larecipe.saleem.dev/images/packages/feedback.png)
 
 ## Getting Started
 
@@ -38,7 +38,7 @@ php artisan migrate
 ```
 
 <h6 align="center">
-    <img src="https://larecipe.binarytorch.com.my/images/packages/feedback.gif"/>
+    <img src="https://larecipe.saleem.dev/images/packages/feedback.gif"/>
 </h6>
 
 4. You can customize the component via the available props:
@@ -55,7 +55,7 @@ php artisan migrate
 
 > Note: this package doesn't come with Admin dashboard, you can setup that by yourself or see the results directly from the DB.
 
-#### See [full documentation](https://larecipe.binarytorch.com.my/docs)
+#### See [full documentation](https://larecipe.saleem.dev/docs)
 
 ## License
 
